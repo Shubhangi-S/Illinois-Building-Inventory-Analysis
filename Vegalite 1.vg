@@ -1,0 +1,1 @@
+{"$schema":"https://vega.github.io/schema/vega-lite/v4.json","data":{"url":"building_inventory.csv","format":{"type":"csv"}},"mark":"bar","encoding":{"x":{"field":"Congress Dist","type":"ordinal"},"y":{"aggregate":"sum","field":"Square Footage","type":"quantitative"}}}
